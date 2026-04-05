@@ -1,0 +1,3 @@
+anthropic==0.25.0       # Claude API — the LLM brain
+python-dotenv==1.0.1   # reads .env file into os.environ
+pytest==8.1.1          # run tests: pytest tests/ -v
