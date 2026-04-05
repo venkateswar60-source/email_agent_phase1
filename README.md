@@ -177,7 +177,7 @@ The LLM chooses one tool per email. Tools are the agent's actions — not hardco
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/agentic-email-classifier.git
+git clone git clone https://github.com/venkateswar60-source/email_agent_phase1.git
 cd agentic-email-classifier/Phase\ 1/email_agent_phase1
 
 # Create virtual environment
